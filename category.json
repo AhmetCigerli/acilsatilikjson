@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Satılık Evler",
+    "slug": "satilik-evler",
+    "icon": "house"
+  },
+  {
+    "id": 2,
+    "name": "Kiralık Evler",
+    "slug": "kiralik-evler",
+    "icon": "key"
+  },
+  {
+    "id": 3,
+    "name": "Lüks Mülkler",
+    "slug": "luksmulkler",
+    "icon": "gem"
+  },
+  {
+    "id": 4,
+    "name": "Ticari Mülkler",
+    "slug": "ticari-mulkler",
+    "icon": "building"
+  },
+  {
+    "id": 5,
+    "name": "Arazi & Tarla",
+    "slug": "arazi-tarla",
+    "icon": "tree"
+  },
+  {
+    "id": 6,
+    "name": "Yazlıklar",
+    "slug": "yazliklar",
+    "icon": "umbrella-beach"
+  },
+  {
+    "id": 7,
+    "name": "Yeni Projeler",
+    "slug": "yeni-projeler",
+    "icon": "drafting-compass"
+  },
+  {
+    "id": 8,
+    "name": "Öğrenci Evleri",
+    "slug": "ogrenci-evleri",
+    "icon": "graduation-cap"
+  }
+]
