@@ -1,0 +1,51 @@
+{
+  "advertiseNo": "0-1234",
+  "floorLocation": 10,
+  "publishedDate": "26 November 2020",
+  "availableForLoan": "Appropriate",
+  "advertiseStatus": "Sale",
+  "furnished": "Not",
+  "housingShape": "Apartment",
+  "dues": "1.200 $",
+  "roomLivingNumber": "3 + 1",
+  "swap": "Not",
+  "grossNetM2": {
+    "gross": "150 M²",
+    "net": "135 M²"
+  },
+  "front": "Northwest",
+  "warmingType": "Natural Gas",
+  "rentalIncome": "3.000 $",
+  "buildingAge": 5,
+  "interiorFeatures": [
+    "ADSL",
+    "Elevator",
+    "Alarm",
+    "Fitness",
+    "Security",
+    "Laundry room",
+    "Thermal Insulation",
+    "Wallpaper",
+    "Generator",
+    "Dressing Room",
+    "Video Intercom",
+    "Shower",
+    "PVC",
+    "Laminate",
+    "Panel Door",
+    "Blinds",
+    "Sauna",
+    "Satin Plaster",
+    "Satin Color",
+    "Ceramic Floor"
+  ],
+  "externalFeatures": [
+    "Gardened",
+    "Balcony",
+    "Barbecue",
+    "Tennis Court",
+    "Car Park",
+    "Basketball Field",
+    "Market"
+  ]
+}
