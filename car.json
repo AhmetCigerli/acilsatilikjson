@@ -80,6 +80,11 @@
     "Anahtarsız Sürüş",
     "7 ileri Vites"
   ],
-  "imageUrl": "https://images.unsplash.com/photo-1422207239328-29f83832206c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1279&q=80 ",
+  "imageUrls": [
+    "https://images.unsplash.com/photo-1422207239328-29f83832206c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1279&q=80",
+    "https://images.unsplash.com/photo-1537007456227-aed7d59b5800?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1336&q=80",
+    "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+    "https://images.unsplash.com/photo-1460529941229-d92cc936a0d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80"
+  ],
   "description": "2014 Model, Otomatik vitesli, 50.000 $ fiyatla satılık BMW X3. Araba, şık deri koltuklar, elektrikli camlar, hidrolik direksiyon ve 7 ileri vites sistemiyle oldukça konforlu ve güvenli bir sürüş deneyimi sunuyor. İç ve dış donanımda çok sayıda modern özellik barındıran araç, hem şehir içi hem de uzun yolculuklarda ideal bir tercihtir. Ayrıca, adaptif hız sabitleyici ve start/stop özellikleriyle verimliliği artıran bu araç, modern teknoloji ile donatılmıştır."
 }
